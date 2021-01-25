@@ -1,0 +1,14 @@
+title: Groot
+email: seunghan.dev@gmail.com
+description: Hi, I'm Groot
+github_username: ejjoo
+highlighter: rouge
+svg:
+  optimize: true
+# Build settings
+highlighter-theme: monokai
+date_format: "%Y-%M-%D"
+plugins:
+  - jekyll-feed
+category_dir: category/
+tag_dir: tag/
